@@ -24,7 +24,6 @@
                 <behavior>Edit</behavior>
                 <field>OwnerId</field>
             </layoutItems>
-            
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
     </layoutSections>
